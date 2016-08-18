@@ -1,0 +1,14 @@
+layout_spectrum: 0.4265642175450921
+typography_spectrum: 0.9646652324590832
+color:
+  brandStrength: 0.9487733403220773
+  lightness: 0.42597093037329614
+  saturation: 0.3983480525203049
+  rhythmicContrast: 0.29462974425405264
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+name: ikon
