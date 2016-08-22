@@ -2,14 +2,14 @@
 description: >-
   The Whole contains the set of all possibilities. But by itself is static and
   without life.
-dateModified: '2016-08-21T21:42:58.111Z'
-datePublished: '2016-08-21T21:47:08.764Z'
+dateModified: '2016-08-21T21:49:39.082Z'
+datePublished: '2016-08-21T21:49:39.777Z'
 title: Tiny Stroke Changes the Whole
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-21-tiny-stroke-changes-the-whole.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
