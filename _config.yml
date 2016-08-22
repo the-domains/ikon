@@ -1,6 +1,5 @@
-typography_spectrum: 0.9646652324590832
-content_rating:
-  adult: false
+layout_spectrum: 0.26384036941453815
+typography_spectrum: 0.2056247976142913
 color:
   brandStrength: 0.9487733403220773
   lightness: 0.42597093037329614
@@ -12,7 +11,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-layout_spectrum: 0.4265642175450921
+content_rating:
+  adult: false
 author:
   name: Phil
   email: phoutz@gmail.com
